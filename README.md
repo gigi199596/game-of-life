@@ -27,4 +27,13 @@ Toutes les informations à propos de l'API peuvent être trouvées ici: [StdDraw
 3. Une fenêtre apparait, cliquer sur une case dans la fenêtre pour lui donner la vie. Cliquer à nouveau, elle mourra
 4. appuyer sur ENTER pour démarrer le jeu
 5. cliquer sur la croix en haut à droite pour fermer la fenêtre lorsque vous avez terminé
-#Preview-Aperçu
+
+# Preview-Aperçu
+Here is some simple oscillators and a glider:
+![Image of simple cells](/pics/test.png)
+Here is a flower:
+![Image of a flower](/pics/swag.png)
+Here a inital configuration of a gliter canon:
+![Image of a gliter canon](/pics/canon.png)
+And some iterations after:
+![Image of the result of a gliter canon](/pics/canon_after.png)
