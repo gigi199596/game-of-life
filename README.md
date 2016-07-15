@@ -29,11 +29,11 @@ Toutes les informations à propos de l'API peuvent être trouvées ici: [StdDraw
 5. cliquer sur la croix en haut à droite pour fermer la fenêtre lorsque vous avez terminé
 
 # Preview-Aperçu
-Here is some simple oscillators and a glider:
+Here is some simple oscillators and a glider: <br>
 ![Image of simple cells](/pics/test.png)
-Here is a flower:
+Here is a flower: <br>
 ![Image of a flower](/pics/swag.png)
-Here a inital configuration of a gliter canon:
+Here a inital configuration of a gliter canon: <br>
 ![Image of a gliter canon](/pics/canon.png)
-And some iterations after:
+And some iterations after: <br>
 ![Image of the result of a gliter canon](/pics/canon_after.png)
