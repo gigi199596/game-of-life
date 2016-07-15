@@ -7,12 +7,13 @@ I use one library named <tt>StdDraw</tt> from the author of this wonderful book:
 You can download the <tt>.jar</tt> file directly with this link: [http://algs4.cs.princeton.edu/code/algs4.jar](http://algs4.cs.princeton.edu/code/algs4.jar). <br>
 All the informations about the API can be found here: [StdDraw javadoc](http://introcs.cs.princeton.edu/java/stdlib/javadoc/StdDraw.html). <br>
 #How to use the game?
-1. compile the file with <tt>javac GameOfLife.java</tt>
-2. run the game with <tt>java GameOfLife</tt>
-3. A window appear, click on a cell in the grid to get it alive. Click again to kill it, she will disappear
-4. press ENTER to run the game
-5. click on the cross in the upper right corner to close the window when you are done
-6. pressing SPACE while the game is running freeze cells
+1. load the library <tt>algs4.jar</tt>
+2. compile the file with <tt>javac GameOfLife.java</tt>
+3. run the game with <tt>java GameOfLife</tt>
+4. A window appear, click on a cell in the grid to get it alive. Click again to kill it, she will disappear
+5. press ENTER to run the game
+6. click on the cross in the upper right corner to close the window when you are done
+7. pressing SPACE while the game is running freeze cells
 
 # Le Jeu De La Vie
 ## Un étrange jeu de cellules
@@ -23,12 +24,13 @@ J'utilise une bibliothèque nommée <tt>StdDraw</tt> provenant de l'auteur de ce
 Vous pouvez télécharger le <tt>.jar</tt> directement avec ce lien: [http://algs4.cs.princeton.edu/code/algs4.jar](http://algs4.cs.princeton.edu/code/algs4.jar). <br>
 Toutes les informations à propos de l'API peuvent être trouvées ici: [StdDraw javadoc](http://introcs.cs.princeton.edu/java/stdlib/javadoc/StdDraw.html). <br>
 #Comment utiliser le jeu?
-1. Compiler le fichier avec <tt>javac GameOfLife.java</tt>
-2. démarrer le jeu avec <tt>java GameOfLife</tt>
-3. Une fenêtre apparait, cliquer sur une case dans la fenêtre pour lui donner la vie. Cliquer à nouveau, elle mourra
-4. appuyer sur ENTER pour démarrer le jeu
-5. cliquer sur la croix en haut à droite pour fermer la fenêtre lorsque vous avez terminé
-6. appuyer sur SPACE pendant le jeu gêle les cellules
+1. charger la bibliothèque <tt>algs4.jar</tt>
+2. Compiler le fichier avec <tt>javac GameOfLife.java</tt>
+3. démarrer le jeu avec <tt>java GameOfLife</tt>
+4. Une fenêtre apparait, cliquer sur une case dans la fenêtre pour lui donner la vie. Cliquer à nouveau, elle mourra
+5. appuyer sur ENTER pour démarrer le jeu
+6. cliquer sur la croix en haut à droite pour fermer la fenêtre lorsque vous avez terminé
+7. appuyer sur SPACE pendant le jeu gêle les cellules
 
 # Preview-Aperçu
 Here is some simple oscillators and a glider: <br>
