@@ -12,6 +12,7 @@ All the informations about the API can be found here: [StdDraw javadoc](http://i
 3. A window appear, click on a cell in the grid to get it alive. Click again to kill it, she will disappear
 4. press ENTER to run the game
 5. click on the cross in the upper right corner to close the window when you are done
+6. pressing SPACE while the game is running freeze cells
 
 # Le Jeu De La Vie
 ## Un étrange jeu de cellules
@@ -27,6 +28,7 @@ Toutes les informations à propos de l'API peuvent être trouvées ici: [StdDraw
 3. Une fenêtre apparait, cliquer sur une case dans la fenêtre pour lui donner la vie. Cliquer à nouveau, elle mourra
 4. appuyer sur ENTER pour démarrer le jeu
 5. cliquer sur la croix en haut à droite pour fermer la fenêtre lorsque vous avez terminé
+6. appuyer sur SPACE pendant le jeu gêle les cellules
 
 # Preview-Aperçu
 Here is some simple oscillators and a glider: <br>
