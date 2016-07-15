@@ -30,10 +30,10 @@ Toutes les informations à propos de l'API peuvent être trouvées ici: [StdDraw
 
 # Preview-Aperçu
 Here is some simple oscillators and a glider: <br>
-![Image of simple cells](/pics/test.png)
+![Image of simple cells](/pics/test.png) <br>
 Here is a flower: <br>
-![Image of a flower](/pics/swag.png)
+![Image of a flower](/pics/swag.png) <br>
 Here a inital configuration of a gliter canon: <br>
-![Image of a gliter canon](/pics/canon.png)
+![Image of a gliter canon](/pics/canon.png) <br>
 And some iterations after: <br>
 ![Image of the result of a gliter canon](/pics/canon_after.png)
